@@ -1,6 +1,6 @@
 # EigenData CLI
 
-Natural language-driven data generation platform for creating high-quality conversational training data.
+Natural language-driven data generation platform for creating high-quality conversational training data. Demo video can be found [here](https://drive.google.com/file/d/1Ee4xLYcA9iykEUwPUpOQpdLQNgHVYgU-/view?usp=sharing).
 
 ## Installation
 
