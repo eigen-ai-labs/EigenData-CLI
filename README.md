@@ -18,7 +18,7 @@ eigendata
 
 ## Quick Start
 
-1. **Get an API key** at [https://train.eigenai.com](https://app.eigenai.com)
+1. **Get an API key** at [https://app.eigenai.com](https://app.eigenai.com)
 2. Run `eigendata` and enter your API key when prompted
 3. Start generating data using natural language commands (MCP URL for demo: `http://3.151.215.26:8007`)
 
