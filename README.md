@@ -20,7 +20,7 @@ eigendata
 
 1. **Get an API key** at [https://train.eigenai.com](https://train.eigenai.com)
 2. Run `eigendata` and enter your API key when prompted
-3. Start generating data using natural language commands
+3. Start generating data using natural language commands (MCP URL for demo: `http://3.151.215.26:8007`)
 
 ```
 eigendata> Generate 10 multi-turn customer support dialogs for laptop troubleshooting
